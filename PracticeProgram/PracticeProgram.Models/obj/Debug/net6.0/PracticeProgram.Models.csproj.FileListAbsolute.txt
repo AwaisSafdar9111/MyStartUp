@@ -1,0 +1,12 @@
+D:\SignalR Project\PracticeProgram\PracticeProgram.Models\bin\Debug\net6.0\PracticeProgram.Models.deps.json
+D:\SignalR Project\PracticeProgram\PracticeProgram.Models\bin\Debug\net6.0\PracticeProgram.Models.dll
+D:\SignalR Project\PracticeProgram\PracticeProgram.Models\bin\Debug\net6.0\PracticeProgram.Models.pdb
+D:\SignalR Project\PracticeProgram\PracticeProgram.Models\obj\Debug\net6.0\PracticeProgram.Models.csproj.AssemblyReference.cache
+D:\SignalR Project\PracticeProgram\PracticeProgram.Models\obj\Debug\net6.0\PracticeProgram.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\SignalR Project\PracticeProgram\PracticeProgram.Models\obj\Debug\net6.0\PracticeProgram.Models.AssemblyInfoInputs.cache
+D:\SignalR Project\PracticeProgram\PracticeProgram.Models\obj\Debug\net6.0\PracticeProgram.Models.AssemblyInfo.cs
+D:\SignalR Project\PracticeProgram\PracticeProgram.Models\obj\Debug\net6.0\PracticeProgram.Models.csproj.CoreCompileInputs.cache
+D:\SignalR Project\PracticeProgram\PracticeProgram.Models\obj\Debug\net6.0\PracticeProgram.Models.dll
+D:\SignalR Project\PracticeProgram\PracticeProgram.Models\obj\Debug\net6.0\refint\PracticeProgram.Models.dll
+D:\SignalR Project\PracticeProgram\PracticeProgram.Models\obj\Debug\net6.0\PracticeProgram.Models.pdb
+D:\SignalR Project\PracticeProgram\PracticeProgram.Models\obj\Debug\net6.0\ref\PracticeProgram.Models.dll

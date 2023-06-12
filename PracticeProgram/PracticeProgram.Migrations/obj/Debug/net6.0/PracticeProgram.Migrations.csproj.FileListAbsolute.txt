@@ -1,0 +1,17 @@
+D:\SignalR Project\PracticeProgram\PracticeProgram.Migrations\bin\Debug\net6.0\PracticeProgram.Migrations.deps.json
+D:\SignalR Project\PracticeProgram\PracticeProgram.Migrations\bin\Debug\net6.0\PracticeProgram.Migrations.runtimeconfig.json
+D:\SignalR Project\PracticeProgram\PracticeProgram.Migrations\bin\Debug\net6.0\PracticeProgram.Migrations.dll
+D:\SignalR Project\PracticeProgram\PracticeProgram.Migrations\bin\Debug\net6.0\PracticeProgram.Migrations.pdb
+D:\SignalR Project\PracticeProgram\PracticeProgram.Migrations\bin\Debug\net6.0\PracticeProgram.Models.dll
+D:\SignalR Project\PracticeProgram\PracticeProgram.Migrations\bin\Debug\net6.0\PracticeProgram.Models.pdb
+D:\SignalR Project\PracticeProgram\PracticeProgram.Migrations\obj\Debug\net6.0\PracticeProgram.Migrations.csproj.AssemblyReference.cache
+D:\SignalR Project\PracticeProgram\PracticeProgram.Migrations\obj\Debug\net6.0\PracticeProgram.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SignalR Project\PracticeProgram\PracticeProgram.Migrations\obj\Debug\net6.0\PracticeProgram.Migrations.AssemblyInfoInputs.cache
+D:\SignalR Project\PracticeProgram\PracticeProgram.Migrations\obj\Debug\net6.0\PracticeProgram.Migrations.AssemblyInfo.cs
+D:\SignalR Project\PracticeProgram\PracticeProgram.Migrations\obj\Debug\net6.0\PracticeProgram.Migrations.csproj.CoreCompileInputs.cache
+D:\SignalR Project\PracticeProgram\PracticeProgram.Migrations\obj\Debug\net6.0\PracticeProgram.Migrations.csproj.CopyComplete
+D:\SignalR Project\PracticeProgram\PracticeProgram.Migrations\obj\Debug\net6.0\PracticeProgram.Migrations.dll
+D:\SignalR Project\PracticeProgram\PracticeProgram.Migrations\obj\Debug\net6.0\refint\PracticeProgram.Migrations.dll
+D:\SignalR Project\PracticeProgram\PracticeProgram.Migrations\obj\Debug\net6.0\PracticeProgram.Migrations.pdb
+D:\SignalR Project\PracticeProgram\PracticeProgram.Migrations\obj\Debug\net6.0\PracticeProgram.Migrations.genruntimeconfig.cache
+D:\SignalR Project\PracticeProgram\PracticeProgram.Migrations\obj\Debug\net6.0\ref\PracticeProgram.Migrations.dll

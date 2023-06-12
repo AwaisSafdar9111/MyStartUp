@@ -1,0 +1,349 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Service\\PracticeProgram.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Migrations\\PracticeProgram.Migrations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Migrations\\PracticeProgram.Migrations.csproj",
+        "projectName": "PracticeProgram.Migrations",
+        "projectPath": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Migrations\\PracticeProgram.Migrations.csproj",
+        "packagesPath": "C:\\Users\\awais\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Migrations\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\awais\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Models\\PracticeProgram.Models.csproj": {
+                "projectPath": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Models\\PracticeProgram.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Models\\PracticeProgram.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Models\\PracticeProgram.Models.csproj",
+        "projectName": "PracticeProgram.Models",
+        "projectPath": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Models\\PracticeProgram.Models.csproj",
+        "packagesPath": "C:\\Users\\awais\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\awais\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Repository\\PracticeProgram.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Repository\\PracticeProgram.Repository.csproj",
+        "projectName": "PracticeProgram.Repository",
+        "projectPath": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Repository\\PracticeProgram.Repository.csproj",
+        "packagesPath": "C:\\Users\\awais\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\awais\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Migrations\\PracticeProgram.Migrations.csproj": {
+                "projectPath": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Migrations\\PracticeProgram.Migrations.csproj"
+              },
+              "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Models\\PracticeProgram.Models.csproj": {
+                "projectPath": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Models\\PracticeProgram.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Service\\PracticeProgram.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Service\\PracticeProgram.Service.csproj",
+        "projectName": "PracticeProgram.Service",
+        "projectPath": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Service\\PracticeProgram.Service.csproj",
+        "packagesPath": "C:\\Users\\awais\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\awais\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Models\\PracticeProgram.Models.csproj": {
+                "projectPath": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Models\\PracticeProgram.Models.csproj"
+              },
+              "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Repository\\PracticeProgram.Repository.csproj": {
+                "projectPath": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.Repository\\PracticeProgram.Repository.csproj"
+              },
+              "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.ViewModel\\PracticeProgram.ViewModel.csproj": {
+                "projectPath": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.ViewModel\\PracticeProgram.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.ViewModel\\PracticeProgram.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.ViewModel\\PracticeProgram.ViewModel.csproj",
+        "projectName": "PracticeProgram.ViewModel",
+        "projectPath": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.ViewModel\\PracticeProgram.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\awais\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\awais\\OneDrive\\Desktop\\My_StartUp\\SignalR Project\\PracticeProgram\\PracticeProgram.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\awais\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

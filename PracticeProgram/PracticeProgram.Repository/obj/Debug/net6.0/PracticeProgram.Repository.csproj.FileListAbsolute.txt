@@ -1,0 +1,17 @@
+D:\SignalR Project\PracticeProgram\PracticeProgram.Repository\bin\Debug\net6.0\PracticeProgram.Repository.deps.json
+D:\SignalR Project\PracticeProgram\PracticeProgram.Repository\bin\Debug\net6.0\PracticeProgram.Repository.dll
+D:\SignalR Project\PracticeProgram\PracticeProgram.Repository\bin\Debug\net6.0\PracticeProgram.Repository.pdb
+D:\SignalR Project\PracticeProgram\PracticeProgram.Repository\bin\Debug\net6.0\PracticeProgram.Models.dll
+D:\SignalR Project\PracticeProgram\PracticeProgram.Repository\bin\Debug\net6.0\PracticeProgram.Models.pdb
+D:\SignalR Project\PracticeProgram\PracticeProgram.Repository\obj\Debug\net6.0\PracticeProgram.Repository.csproj.AssemblyReference.cache
+D:\SignalR Project\PracticeProgram\PracticeProgram.Repository\obj\Debug\net6.0\PracticeProgram.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\SignalR Project\PracticeProgram\PracticeProgram.Repository\obj\Debug\net6.0\PracticeProgram.Repository.AssemblyInfoInputs.cache
+D:\SignalR Project\PracticeProgram\PracticeProgram.Repository\obj\Debug\net6.0\PracticeProgram.Repository.AssemblyInfo.cs
+D:\SignalR Project\PracticeProgram\PracticeProgram.Repository\obj\Debug\net6.0\PracticeProgram.Repository.csproj.CoreCompileInputs.cache
+D:\SignalR Project\PracticeProgram\PracticeProgram.Repository\obj\Debug\net6.0\PracticeProgram.Repository.csproj.CopyComplete
+D:\SignalR Project\PracticeProgram\PracticeProgram.Repository\obj\Debug\net6.0\PracticeProgram.Repository.dll
+D:\SignalR Project\PracticeProgram\PracticeProgram.Repository\obj\Debug\net6.0\refint\PracticeProgram.Repository.dll
+D:\SignalR Project\PracticeProgram\PracticeProgram.Repository\obj\Debug\net6.0\PracticeProgram.Repository.pdb
+D:\SignalR Project\PracticeProgram\PracticeProgram.Repository\obj\Debug\net6.0\ref\PracticeProgram.Repository.dll
+D:\SignalR Project\PracticeProgram\PracticeProgram.Repository\bin\Debug\net6.0\PracticeProgram.Migrations.dll
+D:\SignalR Project\PracticeProgram\PracticeProgram.Repository\bin\Debug\net6.0\PracticeProgram.Migrations.pdb
